@@ -1,22 +1,42 @@
 # AI Resume Analyzer
 
-AI-powered Resume Analyzer using Python, Flask, NLP, Machine Learning, TF-IDF, Cosine Similarity, and Transformer-based AI Feedback.
+An AI-powered Resume Analyzer built using Python, Flask, NLP, and Machine Learning.
 
 ## Features
 
-- Resume Upload
-- ATS Score
+- Resume Upload System
+- PDF Resume Parsing
 - Skill Extraction
+- ATS Score Generation
 - Missing Skill Detection
-- AI Suggestions
-- Dark Mode
+- AI-Based Suggestions
 - Database Storage
+- Dark Mode
+- Responsive Dashboard
 
 ## Technologies Used
 
 - Python
 - Flask
-- SQLite
+- HTML
+- CSS
 - Bootstrap
-- NLP
+- SQLite
+- SQLAlchemy
+- TF-IDF
+- Cosine Similarity
 - Transformers
+
+## Project Workflow
+
+1. Upload Resume PDF
+2. Enter Job Description
+3. Extract Resume Text
+4. Match Resume with Job Role
+5. Generate ATS Score
+6. Detect Missing Skills
+7. Generate AI Suggestions
+
+## Author
+
+Subitha Shree
