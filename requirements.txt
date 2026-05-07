@@ -1,0 +1,6 @@
+flask
+pdfplumber
+scikit-learn
+flask_sqlalchemy
+transformers
+torch
